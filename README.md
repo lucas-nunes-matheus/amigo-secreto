@@ -47,6 +47,14 @@ Este projeto tem como propósito fortalecer competências básicas de programaç
 <sub>Fonte: Material produzido pelos autores(2025).</sub>
 </div>
 
+<div align="center">
+<sup>Figura 2 - Interface do Jogo</sup>
+
+<img src="./assets/image2.png" alt="Captura de tela mostrando a interface do jogo.">
+
+<sub>Fonte: Material produzido pelos autores(2025).</sub>
+</div>
+
 ## 📝 Licença  
 
 Este projeto é de código aberto e está sob a licença **MIT**.  
