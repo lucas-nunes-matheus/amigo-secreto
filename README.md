@@ -42,7 +42,7 @@ Este projeto tem como propósito fortalecer competências básicas de programaç
 <div align="center">
 <sup>Figura 1 - Interface do Jogo</sup>
 
-![Captura de tela mostrando a interface do jogo.](image.png)
+<img src="./assets/image.png" alt="Captura de tela mostrando a interface do jogo.">
 
 <sub>Fonte: Material produzido pelos autores(2025).</sub>
 </div>
